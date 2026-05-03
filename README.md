@@ -1,16 +1,19 @@
-## Hi there 👋
+# Abdurrahman Melih AKDENİZ
+**Systems • Infrastructure • AI Engineering**
 
-<!--
-**abdmelihakdeniz/abdmelihakdeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`C` · `C++` · `Go` · `Rust` · `Python`
 
-Here are some ideas to get you started:
+`Azure` · `Docker` · `K8s` · `Terraform`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Linux` · `Scikit-learn` · `PyTorch`
+
+---
+
+### 🔭 Current Focus
+* **ML & Math:** Hardened probability, statistics, and Scikit-learn workflows.
+* **Systems:** Bridging Mechatronics with high-performance infrastructure.
+
+### 🎓 Education
+* **Mechatronics** @ OSTIM Technical University
+
+---
